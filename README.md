@@ -190,6 +190,10 @@ This project was developed for FIT5226 (Multi-Agent Systems) at Monash Universit
 - Monash University, FIT5226 Multi-Agent Systems
 - Specialization: Reinforcement Learning, Multi-Agent Coordination
 
+### 📞 Contact
+- **LinkedIn:** [https://www.linkedin.com/in/esteban-lopez-mejia-1a8860217/](https://www.linkedin.com/in/esteban-lopez-mejia-1a8860217/)
+- **Email:** [estebanlopez_99@hotmail.com](mailto:estebanlopez_99@hotmail.com)
+
 ## 📄 License
 
 This project is for educational purposes. Please cite appropriately if used in research.
