@@ -120,12 +120,29 @@
 
 ```
 multi-agent-rl-project/
-├── 34377360_a1.ipynb          # Main implementation notebook
-├── README.md                  # Comprehensive project documentation
-├── PROJECT_SUMMARY.md         # Detailed achievement summary
-├── PORTFOLIO_HIGHLIGHTS.md    # This file - key highlights
-├── requirements.txt           # Dependencies
+├── 34377360_a1.ipynb              # Complete notebook with outputs
+├── 34377360_a1_no_outputs.ipynb   # Clean notebook for interaction
+├── README.md                      # Comprehensive project documentation
+├── PROJECT_SUMMARY.md             # Detailed achievement summary
+├── PORTFOLIO_HIGHLIGHTS.md        # This file - key highlights
+├── QUICK_START.md                 # Getting started guide
+├── requirements.txt               # Dependencies
+├── .gitignore                    # Git ignore rules
 ```
+
+## 📓 **Notebook Versions**
+
+### **`34377360_a1_no_outputs.ipynb`** - Interactive Learning
+- **Purpose**: Clean implementation for hands-on learning
+- **Best for**: Running code yourself, understanding implementation
+- **Features**: No outputs, fast loading, easy navigation
+- **Use case**: Learning, experimentation, code modification
+
+### **`34377360_a1.ipynb`** - Complete Results
+- **Purpose**: Full demonstration with all results
+- **Best for**: Portfolio presentation, result verification
+- **Features**: All outputs, plots, training metrics included
+- **Use case**: Showcasing achievements, understanding results
 
 ## 🎯 **Portfolio Value**
 

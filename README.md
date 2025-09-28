@@ -58,6 +58,22 @@ The project must meet strict performance requirements:
 3. **Collision Avoidance**: Emergent behavior from path diversity
 4. **Multi-Agent Deployment**: Apply learned policy to 4-agent scenarios
 
+## 📓 **Notebook Versions**
+
+This repository includes two versions of the main notebook:
+
+### **`34377360_a1.ipynb`** - Complete with Outputs
+- **Purpose**: Full demonstration with all results and visualizations
+- **Best for**: Quick overview, understanding results, portfolio presentation
+- **Size**: Larger file with all training outputs and plots
+- **Use case**: Showcasing final results and achievements
+
+### **`34377360_a1_no_outputs.ipynb`** - Clean Implementation
+- **Purpose**: Interactive learning and experimentation
+- **Best for**: Running the code yourself, understanding implementation
+- **Size**: Smaller, faster to load and navigate
+- **Use case**: Hands-on learning, code modification, experimentation
+
 ## 🛠️ Setup & Installation
 
 ### Prerequisites
@@ -70,12 +86,16 @@ The project must meet strict performance requirements:
 ```bash
 # Clone the repository
 git clone <your-repo-url>
-cd multi-agent-rl
+cd multi-agent-rl-project
 
 # Install dependencies
 pip install -r requirements.txt
 
-# Run the notebook
+# Choose your notebook version:
+# For interactive learning:
+jupyter notebook 34377360_a1_no_outputs.ipynb
+
+# For viewing complete results:
 jupyter notebook 34377360_a1.ipynb
 ```
 
@@ -144,12 +164,16 @@ visualizer.render(title="Agent Coordination")
 ## 📁 Project Structure
 
 ```
-├── 34377360_a1.ipynb          # Main implementation notebook
-├── multi_agent_qtable.py      # Standalone implementation
-├── requirements.txt            # Dependencies
-├── README.md                  # This file
-├── outputs/                   # Generated results and visualizations
-└── trained_agents.npy         # Saved Q-table weights
+multi-agent-rl-project/
+├── 34377360_a1.ipynb              # Complete notebook with outputs
+├── 34377360_a1_no_outputs.ipynb   # Clean notebook for interaction
+├── README.md                      # This file
+├── PROJECT_SUMMARY.md             # Detailed achievements
+├── PORTFOLIO_HIGHLIGHTS.md        # Key highlights
+├── QUICK_START.md                 # Getting started guide
+├── requirements.txt               # Dependencies
+├── .gitignore                    # Git ignore rules
+└── outputs/                      # Generated results and visualizations
 ```
 
 ## 🎓 Academic Context

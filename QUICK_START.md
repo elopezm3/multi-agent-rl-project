@@ -13,10 +13,26 @@ cd multi-agent-rl-portfolio
 pip install -r requirements.txt
 ```
 
-### 3. Run the Project
+### 3. Choose Your Notebook Version
 ```bash
+# For interactive learning (recommended):
+jupyter notebook 34377360_a1_no_outputs.ipynb
+
+# For viewing complete results:
 jupyter notebook 34377360_a1.ipynb
 ```
+
+## 📓 **Notebook Versions Explained**
+
+### **`34377360_a1_no_outputs.ipynb`** - Interactive Learning
+- **Best for**: Running code yourself, understanding implementation
+- **Features**: Clean code, no outputs, fast loading
+- **Use case**: Hands-on experimentation and learning
+
+### **`34377360_a1.ipynb`** - Complete Results
+- **Best for**: Viewing final results and achievements
+- **Features**: All outputs, plots, and training results included
+- **Use case**: Portfolio presentation and result verification
 
 ## 📊 Key Results
 
