@@ -119,14 +119,12 @@
 ## 📁 **Project Structure**
 
 ```
-multi-agent-rl/
+multi-agent-rl-project/
 ├── 34377360_a1.ipynb          # Main implementation notebook
 ├── README.md                  # Comprehensive project documentation
 ├── PROJECT_SUMMARY.md         # Detailed achievement summary
 ├── PORTFOLIO_HIGHLIGHTS.md    # This file - key highlights
 ├── requirements.txt           # Dependencies
-├── outputs/                   # Generated results and visualizations
-└── trained_agents.npy         # Saved Q-table weights
 ```
 
 ## 🎯 **Portfolio Value**

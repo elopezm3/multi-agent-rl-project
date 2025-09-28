@@ -37,14 +37,13 @@ jupyter notebook 34377360_a1.ipynb
 ## 📁 Project Structure
 
 ```
-multi-agent-rl-portfolio/
+multi-agent-rl-project/
 ├── 34377360_a1.ipynb          # Main implementation
 ├── README.md                  # Comprehensive documentation
 ├── PROJECT_SUMMARY.md         # Detailed achievements
 ├── PORTFOLIO_HIGHLIGHTS.md    # Key highlights
 ├── QUICK_START.md            # This file
 ├── requirements.txt           # Dependencies
-├── outputs/                   # Generated results
 └── .gitignore               # Git ignore rules
 ```
 
